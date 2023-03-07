@@ -1,0 +1,2 @@
+# Animasyonlu-kazanan
+Yapıştır
